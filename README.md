@@ -12,12 +12,12 @@ On windows , the command is autostart.exe.
 
 ## 1.Enable Application autostart.   
 ***linux&mac***   
-`autostart enable -k "demokey" -n "my demo application" -c "echo \"autostart\">~/autostart.txt"` 
+`autostart enable -k "demokey" -n "my demo application" -c "echo \"autostart\">~/autostart.txt"`   
 help:    
 `autostart enable --help`  
 
 ***windows***    
-`autostart.exe enable -k test -n test -c "c:\\windows\explorer.exe c:"`
+`autostart.exe enable -k test -n test -c "c:\\windows\explorer.exe c:"`   
 help:    
 `autostart.exe enable --help`   
 
