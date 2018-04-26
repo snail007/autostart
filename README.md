@@ -2,7 +2,7 @@
 
 [![stable](https://img.shields.io/badge/stable-stable-green.svg)](https://github.com/snail007/autostart/) [![license](https://img.shields.io/github/license/snail007/autostart.svg?style=plastic)]() [![download_count](https://img.shields.io/github/downloads/snail007/autostart/total.svg?style=plastic)](https://github.com/snail007/autostart/releases) [![download](https://img.shields.io/github/release/snail007/autostart.svg?style=plastic)](https://github.com/snail007/autostart/releases)  
   
-autostart tools to set your application auto startup after desktop login,only for desktop version of linux&windows&mac.     
+autostart tools to set your application auto startup on desktop login,only for desktop version of linux , windows , mac.     
 
 # Behavior
 On Linux and BSD, it creates a .desktop file in $XDG_CONFIG_HOME/autostart (i.e. $HOME/.config/autostart). See http://askubuntu.com/questions/48321/how-do-i-start-applications-automatically-on-login  
