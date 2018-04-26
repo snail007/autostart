@@ -31,7 +31,7 @@ help:
 `autostart disable --help`   
 
 ***windows***    
-`autostart.exe disable -k "demokey"`    
+`autostart.exe disable -k "test"`    
 help:     
 `autostart.exe disable --help`   
 
