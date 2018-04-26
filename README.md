@@ -7,8 +7,8 @@ On macOS, it creates a launchd job. See http://blog.gordn.org/2015/03/implementi
 On Windows, it creates a link to the program in %USERPROFILE%\Start Menu\Programs\Startup  
 
 # Usage  
-On linux and mac , command is autostart.   
-On windows , command is autostart.exe.  
+On linux and mac , the command is autostart.   
+On windows , the command is autostart.exe.  
 
 Enable Application autostart.   
 `autostart enable -k "demokey" -n "my demo application" -c "echo \"autostart\">~/autostart.txt"`   
