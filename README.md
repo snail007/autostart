@@ -1,5 +1,5 @@
 # Autostart
-autostart tools to set your application auto startup on desktop login,only for desktop version of linux&windows&mac.     
+autostart tools to set your application auto startup after desktop login,only for desktop version of linux&windows&mac.     
 
 # Behavior
 On Linux and BSD, it creates a .desktop file in $XDG_CONFIG_HOME/autostart (i.e. $HOME/.config/autostart). See http://askubuntu.com/questions/48321/how-do-i-start-applications-automatically-on-login  
