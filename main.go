@@ -33,6 +33,7 @@ func main() {
 	if *name == "" {
 		*name = *nameKey
 	}
+	log.Println(*command, strings.Fields(*command))
 	autostart := &autostart.App{
 		Name:        *nameKey,
 		DisplayName: *name,
